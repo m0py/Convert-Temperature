@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+lib/Convert/Temperature.pm
+t/Convert-Temperature.t
